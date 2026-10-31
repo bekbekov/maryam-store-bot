@@ -42,7 +42,10 @@ def main_menu():
         [InlineKeyboardButton("👜 Сумки", callback_data="cat_bags")],
         [InlineKeyboardButton("⌚ Часы", callback_data="cat_watches")],
         [InlineKeyboardButton("🖼 Картина", callback_data="cat_art")],
-        [InlineKeyboardButton("📞 Связаться с продавцом", callback_data="contact")]
+        [InlineKeyboardButton(
+                "📞 Связаться с продавцом",
+                url="https://t.me/+77757711007"
+            )]
     ]
     return InlineKeyboardMarkup(keyboard)
 
