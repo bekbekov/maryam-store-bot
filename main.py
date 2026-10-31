@@ -44,7 +44,7 @@ def main_menu():
         [InlineKeyboardButton("🖼 Картина", callback_data="cat_art")],
         [InlineKeyboardButton(
                 "📞 Связаться с продавцом",
-                url="https://t.me/bbscorp75"
+                url="https://t.me/+77757711007"
             )]
     ]
     return InlineKeyboardMarkup(keyboard)
