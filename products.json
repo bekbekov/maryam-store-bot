@@ -3,17 +3,69 @@
     {
       "id": "bags",
       "name": "Сумки",
-      "products": []
+      "products": [
+        {
+          "id": "bag_1",
+          "name": "Сумка №1",
+          "description": "Б/у. Состояние и характеристики уточняются.",
+          "price": 0,
+          "photo": "PHOTO_BAG_1"
+        },
+        {
+          "id": "bag_2",
+          "name": "Сумка №2",
+          "description": "Б/у. Состояние и характеристики уточняются.",
+          "price": 0,
+          "photo": "PHOTO_BAG_2"
+        },
+        {
+          "id": "bag_3",
+          "name": "Сумка №3",
+          "description": "Б/у. Состояние и характеристики уточняются.",
+          "price": 0,
+          "photo": "PHOTO_BAG_3"
+        }
+      ]
     },
     {
       "id": "watches",
       "name": "Часы",
-      "products": []
+      "products": [
+        {
+          "id": "watch_1",
+          "name": "Часы №1",
+          "description": "Б/у. Описание и происхождение уточняются.",
+          "price": 0,
+          "photo": "PHOTO_WATCH_1"
+        },
+        {
+          "id": "watch_2",
+          "name": "Часы №2",
+          "description": "Б/у. Описание и происхождение уточняются.",
+          "price": 0,
+          "photo": "PHOTO_WATCH_2"
+        },
+        {
+          "id": "watch_original",
+          "name": "Оригинальные б/у часы",
+          "description": "Оригинальные часы. Подробности и подтверждение подлинности уточняются.",
+          "price": 0,
+          "photo": "PHOTO_WATCH_ORIGINAL"
+        }
+      ]
     },
     {
       "id": "art",
       "name": "Картина",
-      "products": []
+      "products": [
+        {
+          "id": "ali_painting",
+          "name": "Картина Мухаммеда Али с подписью",
+          "description": "Оригинальная картина. Информация о происхождении и подтверждении подлинности подписи будет добавлена.",
+          "price": 0,
+          "photo": "PHOTO_ALI_PAINTING"
+        }
+      ]
     }
   ]
 }
