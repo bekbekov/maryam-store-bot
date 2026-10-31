@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": "bags",
+      "name": "Сумки",
+      "products": []
+    },
+    {
+      "id": "watches",
+      "name": "Часы",
+      "products": []
+    },
+    {
+      "id": "art",
+      "name": "Картина",
+      "products": []
+    }
+  ]
+}
