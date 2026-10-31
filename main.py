@@ -18,7 +18,7 @@ from telegram.ext import (
 
 # ========== SETTINGS ==========
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("9271945516:AAHbQEwSOfF5dnvqKrHOYfUnnw5diaJZxjw")
 ADMIN_ID = 792922890
 
 logging.basicConfig(
